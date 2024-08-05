@@ -68,7 +68,7 @@ We can test our connection here:
 ssh -T git@github.com
 ```
 
-### Github CLI
+### Github CLI - Command Line
 
 Install the CLI
 
